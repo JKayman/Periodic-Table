@@ -1,2 +1,2 @@
 # Periodic-Table
-Interactive tool for studying periodic table of elements and trends within it.
+This program is designed to assist with studying periodic table of elements and trends within it.
